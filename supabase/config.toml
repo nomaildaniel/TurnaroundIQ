@@ -1,0 +1,2 @@
+[functions.jev-recommend]
+verify_jwt = true
